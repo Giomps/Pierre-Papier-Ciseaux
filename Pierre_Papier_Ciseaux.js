@@ -34,7 +34,6 @@ function rockScissorPaper() {
     } else {
         textResult.textContent = ``
     }
-Hello world
 }
 
 setInterval(rockScissorPaper, 3500)
